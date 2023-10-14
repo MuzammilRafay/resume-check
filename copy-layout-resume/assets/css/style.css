@@ -1,0 +1,15 @@
+
+#sidebar {
+  background: #bd5d38 !important;
+  color: #fff;
+  padding: 20px;
+}
+
+#sidebar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#sidebar a:hover {
+  text-decoration: underline;
+}
